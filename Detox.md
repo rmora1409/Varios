@@ -15,18 +15,24 @@
 
 * [Mini-Recetario - Plan Detox de 30 dias](./Mini-Recetario_PlanDetoxde30dias.pdf)
 
-      # SEMANA 1
+    # SEMANA 1
 * [Menu Calendario](./PlanDetoxTanVerde_Menu-Calendario_PrimaveraSemana1.pdf)
 * [Menu Recetario](./PlanDetoxTanVerde_Menu-Recetario_PrimaveraSemana1.pdf)
 * [Lista de Compras](./PlanDetoxTanVerde_ListadeCompras_PrimaveraSemana1.pdf)
 
-      # SEMANA 2
+    # SEMANA 2
 * [Menu Calendario](./PlanDetoxTanVerde_Menu-Calendario_PrimaveraSemana2.pdf)
 * [Menu Recetario](./PlanDetoxTanVerde_Menu-Recetario_PrimaveraSemana2.pdf)
 * [Lista de Compras](./PlanDetoxTanVerde_ListadeCompras_PrimaveraSemana2.pdf)
 
-      # SEMANA 3
+    # SEMANA 3
 * [Menu Calendario](./PlanDetoxTanVerde_Menu-Calendario_PrimaveraSemana3.pdf)
 * [Menu Recetario](./PlanDetoxTanVerde_Menu-Recetario_PrimaveraSemana3.pdf)
 * [Lista de Compras](./PlanDetoxTanVerde_ListadeCompras_PrimaveraSemana3.pdf)
+
+    # SEMANA 4
+* [Menu Calendario](./PlanDetoxTanVerde_Menu-Calendario_PrimaveraSemana4.pdf)
+* [Menu Recetario](./PlanDetoxTanVerde_Menu-Recetario_PrimaveraSemana4.pdf)
+* [Lista de Compras](./PlanDetoxTanVerde_ListadeCompras_PrimaveraSemana4.pdf)
+
 
