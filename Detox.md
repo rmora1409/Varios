@@ -1,4 +1,4 @@
-# Detox - Recetas y tips para una dieta alcalina
+# Detox - Información dieta alcalina
 
 * [LugaresdeCompra](./1-PlanDetoxTanVerde_LugaresdeCompra.pdf)
 * [Kit para iniciar](./2-TanVerde_StarterKit.pdf)
@@ -7,13 +7,17 @@
 * [Tips para simpificar](./5-PlanDetoxTanVerde_TipsParaSimplificar.pdf)
 * [Jugos vs Smoothies](./6-TanVerde_GuiaDetox_Jugos-vs-Smoothies.pdf)
 * [Sustituciones](./7-PlanDetoxTanVerde_Sustituciones.pdf)
-* [Detox primavera - parte 1](./8-TanVerde_DetoxdePrimavera_Parte1.pdf)
-* [Detox primavera - parte 2](./9-TanVerde_DetoxdePrimavera_Parte2.pdf)
-* [Detox primavera - parte 3](./10-TanVerde_DetoxdePrimavera_Parte3.pdf)
+* [Guía para entrenamiento](./GuiaWorkout_TanVerde.pdf)
+
+# RECETAS
+
 
 # PLAN DETOX PRIMAVERA
 
 * [Mini-Recetario - Plan Detox de 30 dias](./Mini-Recetario_PlanDetoxde30dias.pdf)
+* [Detox primavera - parte 1](./8-TanVerde_DetoxdePrimavera_Parte1.pdf)
+* [Detox primavera - parte 2](./9-TanVerde_DetoxdePrimavera_Parte2.pdf)
+* [Detox primavera - parte 3](./10-TanVerde_DetoxdePrimavera_Parte3.pdf)
 
     # SEMANA 1
 * [Menu Calendario](./PlanDetoxTanVerde_Menu-Calendario_PrimaveraSemana1.pdf)
@@ -35,4 +39,6 @@
 * [Menu Recetario](./PlanDetoxTanVerde_Menu-Recetario_PrimaveraSemana4.pdf)
 * [Lista de Compras](./PlanDetoxTanVerde_ListadeCompras_PrimaveraSemana4.pdf)
 
+# CLASES ON-LINE 
+* [Clase On-line detox de verano](./TanVerde_ClaseOnline_DetoxdeVerano.pdf)
 
