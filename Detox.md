@@ -1,5 +1,5 @@
 # Detox - Información dieta alcalina
-##Fuente: TAN VERDE http://www.tanverde.com##
+##Fuente: TAN VERDE http://www.tanverde.com
 
 * [LugaresdeCompra](./1-PlanDetoxTanVerde_LugaresdeCompra.pdf)
 * [Kit para iniciar](./2-TanVerde_StarterKit.pdf)
