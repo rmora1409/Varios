@@ -1,10 +1,11 @@
 # Detox - Información dieta alcalina
+##Fuente: TAN VERDE http://www.tanverde.com##
 
 * [LugaresdeCompra](./1-PlanDetoxTanVerde_LugaresdeCompra.pdf)
 * [Kit para iniciar](./2-TanVerde_StarterKit.pdf)
 * [Utensilios necesarios](./3-PlanDetoxTanVerde_UtensiliosdeCocina.pdf)
 * [Conservación de alimentos](/4-TanVerde_GuiaParaConservarTusAlimentos.pdf)
-* [Tips para simpificar](./5-PlanDetoxTanVerde_TipsParaSimplificar.pdf)
+* [Tips para simplificar](./5-PlanDetoxTanVerde_TipsParaSimplificar.pdf)
 * [Jugos vs Smoothies](./6-TanVerde_GuiaDetox_Jugos-vs-Smoothies.pdf)
 * [Sustituciones](./7-PlanDetoxTanVerde_Sustituciones.pdf)
 * [Guía para entrenamiento](./GuiaWorkout_TanVerde.pdf)
